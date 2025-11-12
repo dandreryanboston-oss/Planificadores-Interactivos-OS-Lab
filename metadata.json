@@ -1,0 +1,5 @@
+{
+  "name": "Planificadores Interactivos OS Lab",
+  "description": "An interactive web application to simulate and visualize various CPU scheduling algorithms like FIFO, SJF, Round Robin, and more. It features real-time Gantt charts, process queue tracking, and performance metric analysis in a clean, modern interface with light and dark themes.",
+  "requestFramePermissions": []
+}
